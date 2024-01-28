@@ -1,0 +1,53 @@
+
+    p{
+      font-family: Arial; 
+    }
+    .videotitle{
+      
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 24px;
+      width: 300px;
+      margin-top: 16px;
+  
+    }
+  .videotext{
+    color: rgb(96, 96, 96);
+    font-size: 14px;
+  }
+  
+  .naming{
+    color:rgb(96, 96, 96) ;
+   margin-top: 16px;
+   font-size: 14px;
+  }
+  
+   .body{
+  color:rgb(96, 96, 96) ;
+  width: 280px;
+  margin-top: 16px;
+  font-size: 14px;
+  line-height: 22px;
+  margin-bottom: 100px;
+   }
+   .final{
+  
+    background-color: rgb(235, 49, 49);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+   }
+  .shop{
+    cursor: pointer;
+  }
+  .shop:hover{
+    text-decoration-line: underline;
+  }
+  .holiday{
+    color: black;
+  }
+  
+  
+  
+  

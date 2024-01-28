@@ -1,0 +1,92 @@
+
+      p{
+        font-family: Arial; 
+        text-align: center;
+        margin-bottom: 0;
+      }
+    .New{
+      color: rgb(255, 136, 0);
+      font-size: 12px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      
+    } 
+    .MacBookPro{
+    line-height: 14px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: rgb(63, 59, 59);
+    }
+    
+    .Superchargedforpros002E{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 20px;
+    color: rgb(63, 59, 59);
+    line-height: 18px;
+    
+    }
+    .from00241999{
+    color: rgb(63, 59, 59);
+    margin-top: 20px;
+    margin-bottom: 15px;
+    }
+    .Buy-button{
+    background-color: rgb(59, 156, 212);
+    color: white;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 15px;
+    border: none;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    
+    }
+    
+    .amount{
+      line-height:15PX ;
+      font-size: 30px;
+    }
+    .USD{
+      color: gray;
+      font-size: 15px;
+      font-weight: bold;
+    
+    }
+    .Secondamount{
+    color: rgb(97, 161, 97);
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    }
+    .classified{
+      columns: rgb(146, 21, 21);
+    
+    }
+    .hour{
+      font-weight: 40;
+    }
+    
+    .firstline{
+    line-height: 25px;
+    font-weight: bold;
+    font-size: 20px;
+    width: 600px;
+    margin-top: 100px;
+    
+    }
+    .free{
+    color: grey;
+    font-size: 20px;
+    }
+    .secondline{
+    width: 600px;
+    text-align:left;
+    }
+    
+    
+    
